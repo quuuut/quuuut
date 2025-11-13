@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## guy with the camera
+![Github Streak](https://streak-stats.demolab.com/?user=quuuut&theme=dark)
 <!--
 **quuuut/quuuut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
